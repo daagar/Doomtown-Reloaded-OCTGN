@@ -67,7 +67,8 @@
 		<property name="Keywords" type="String" hidden="False" ignoreText="False" textKind="Free"  />
 		<property name="Text" type="String" hidden="False" ignoreText="False" textKind="Free"  />
 		<property name="Instructions" type="String" hidden="False" ignoreText="False" textKind="Free"  />
-      
+      <property name="CardNumber" type="String" hidden="False" ignoreText="False" textKind="Free" />
+
       <size name="button" width="50" height="50" front="Card/button-back.jpg" back="Card/button-front.jpg"/>
       <size name="townsquare" width="444" height="250" front="Card/button-back.jpg" back="Card/button-front.jpg"/>
 	</card>

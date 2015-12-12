@@ -22,6 +22,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="Noon: Move your wanted dude to another location (without booting)." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="19" />
       </card>
       <card id="826655e8-00b7-43ae-a3fb-4cea781176ad" name="Kyle Wagner">
          <property name="Rank" value="2" />
@@ -39,6 +40,7 @@
          <property name="Keywords" value="Mad Scientist 2" />
          <property name="Text" value="Noon, Boot: If Kyle is at a Ranch, unboot the Ranch. Its abilities may be used an additional time this turn." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="5" />
       </card>
       <card id="b65c9b55-7a81-4052-87dd-70eb515b8b2f" name="Telepathy Helmet">
          <property name="Rank" value="3" />
@@ -56,6 +58,7 @@
          <property name="Keywords" value="Gadget-Difficulty 5" />
          <property name="Text" value="If you are the Winner, this dude cannot be affected by other players' Shootout abilities.&#xD;&#xA;Repeat Noon, 1GR: Look at a player's hand." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="13" />
       </card>
       <card id="aa9e21f5-9a84-479b-90f8-497b6084467b" name="Town Council">
          <property name="Rank" value="4" />
@@ -73,6 +76,7 @@
          <property name="Keywords" value="Private-Government" />
          <property name="Text" value="Controller React, Boot: After you win lowball, choose your dude to get +3 influence until after the first High Noon play (including passing) is resolved" />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="11" />
       </card>
       <card id="bf48f3c1-bd08-4542-a8c6-6af0a8e7cfa4" name="Faithful Hound">
          <property name="Rank" value="4" />
@@ -90,6 +94,7 @@
          <property name="Keywords" value="Sidekick" />
          <property name="Text" value="Shootout, Boot: Choose a goods in the opposing posse and pull. If the pull is lower than the value of the goods, discard the goods." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="14" />
       </card>
       <card id="d6c082a2-8e92-404b-b427-a1f7a7cab4aa" name="Plasma Drill">
          <property name="Rank" value="5" />
@@ -107,6 +112,7 @@
          <property name="Keywords" value="Gadget-Difficulty 8" />
          <property name="Text" value="Noon, Pay 1 Ghost Rock, Boot this Dude: Choose a deed at an adjacent location. Its owner must pay ghost rock equal to its production. If they cannot or do not, discard the deed (any dudes there go home booted)." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="15" />
       </card>
       <card id="d9aefb8f-ea66-4782-8fee-1e5c88c257af" name="Slade Lighbody">
          <property name="Rank" value="5" />
@@ -124,6 +130,7 @@
          <property name="Keywords" value="Huckster 2" />
          <property name="Text" value="React: After Slade fails a Hex pull, pull again and use that value instead. Ace the Hex after applying its effects (if any)." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="2" />
       </card>
       <card id="ce8a1161-2c83-4a6f-a0de-7a6c19b47a6e" name="The R&amp;D Ranch">
          <property name="Rank" value="6" />
@@ -141,6 +148,7 @@
          <property name="Keywords" value="Private-Ranch-Out of Town-Experimental" />
          <property name="Text" value="Controller Noon, Boot: Gain 2 ghost rock and pull. If the pull is a club, discard this deed and all cards at this location." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="12" />
       </card>
       <card id="1b68d5c9-e336-4822-aeb9-5ca0cace82a8" name="Hired Help">
          <property name="Rank" value="7" />
@@ -158,6 +166,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="Shootout: A 2-stud Gunslinger token enters play and joins your posse." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="20" />
       </card>
       <card id="c765b5ba-c7b1-491c-b504-fcce730bb8a0" name="Wilber Crowley">
          <property name="Rank" value="6" />
@@ -175,6 +184,7 @@
          <property name="Keywords" value="Huckster 1" />
          <property name="Text" value="1" />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="9" />
       </card>
       <card id="0203a928-b0b6-4a95-8e71-d82b02a48e9a" name="Roderick Byre">
          <property name="Rank" value="7" />
@@ -192,6 +202,7 @@
          <property name="Keywords" value="Mad Scientist 1" />
          <property name="Text" value="" />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="10" />
       </card>
       <card id="dec376dc-2dcd-4cb8-b1ae-9c4dc7c7dd7e" name="Rafi Hamid">
          <property name="Rank" value="7" />
@@ -209,6 +220,7 @@
          <property name="Keywords" value="Deputy" />
          <property name="Text" value="Shootout: One or more of your Deputies in any location(s) joins your posse at a Government deed (moving if necessary)." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="3" />
       </card>
       <card id="15fda041-c825-4278-a5de-15bc00cab80d" name="Ulysses Marks">
          <property name="Rank" value="7" />
@@ -226,6 +238,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="While Ulysses is at a Saloon, the Saloon gets 1 additional control point.&#xD;&#xA;Noon: If Ulysses is at a Saloon, move another dude at the same location to the town square booted." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="7" />
       </card>
       <card id="18e06cc3-eb57-451a-ba28-18665727999d" name="Paralysis Mark">
          <property name="Rank" value="8" />
@@ -243,6 +256,7 @@
          <property name="Keywords" value="Hex" />
          <property name="Text" value="Noon Hex X, Boot: X is the value of a dude at this or an adjacent location. Boot the dude." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="16" />
       </card>
       <card id="cbb6be72-e387-4742-99cb-b5681e88de82" name="Wylie Jenks">
          <property name="Rank" value="8" />
@@ -260,6 +274,7 @@
          <property name="Keywords" value="Deputy" />
          <property name="Text" value="Wylie has +1 bullet for each wanted dude in the opposing posse." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="4" />
       </card>
       <card id="519a9e2e-56e9-42a2-8cda-64d1a7cd934f" name="Too Much Attention">
          <property name="Rank" value="10" />
@@ -277,6 +292,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="Noon: Boot a wanted dude.&#xD;&#xA;Noon:Boot a card worth one of more control points." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="21" />
       </card>
       <card id="7bb386d8-73a0-4d31-bbd1-5204fcde0302" name="Make 'em Sweat">
          <property name="Rank" value="A" />
@@ -294,6 +310,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="Shootout: Boot your dude to reduce another dude's bullet rating by your dude's bullet rating. If their bullet rating is now 0 boot them." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="18" />
       </card>
       <card id="77653869-e142-4428-8595-c74886e8c8c8" name="Dulf Zug">
          <property name="Rank" value="A" />
@@ -311,6 +328,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="" />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="1" />
       </card>
       <card id="0857fa1d-c061-4606-bb55-4736edcfd2e9" name="Forget">
          <property name="Rank" value="J" />
@@ -328,6 +346,7 @@
          <property name="Keywords" value="Hex" />
          <property name="Text" value="Noon Hex 5: Choose an ability printed on a Dude at this or an adjacent location. The Dude cannot use the ability until after Sundown." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="17" />
       </card>
       <card id="32f4797f-7584-453c-b6a3-9cf3656dcc96" name="Lillian Morgan">
          <property name="Rank" value="K" />
@@ -345,6 +364,7 @@
          <property name="Keywords" value="Huckster 2" />
          <property name="Text" value="When Lillian enters a posse, place 3 ghost rock on her. The ghost rock may be used to pay for Shootout abilities (it is not a bounty). Discard her unused ghost rock after the shootout.&#xD;&#xA;Shootout, Pay X Ghost Rock: X of your dudes in any location(s) join Lillian's posse (moving if necessary)." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="6" />
       </card>
       <card id="55257be5-9428-4699-8df6-9b397f9fe258" name="Alice Stowe">
          <property name="Rank" value="Q" />
@@ -362,6 +382,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="If one of your wanted dudes accepts a call-out, Alice may join the posse from any location (without booting, and even while booted)." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="8" />
       </card>
   </cards>
 </set>      

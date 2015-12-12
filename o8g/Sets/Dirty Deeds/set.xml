@@ -24,6 +24,7 @@
          <property name="Keywords" value="Transient-Abomination" />
          <property name="Text" value="React: After Xiang enters play, gain ghost rock equal to the production at Xiang's location. If it is a deed you do not own or your home, reduce that card's production to 0 until after the next Upkeep phase." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="4" />
       </card>
 
       <card id="555ee88e-b7a2-41b9-a781-357a9fc53f65" name="He Fang">
@@ -42,6 +43,7 @@
          <property name="Keywords" value="Blessed 0-Kung Fu 0" />
          <property name="Text" value="Noon, Boot: Play a non-Gadget Abomination from your hand at this location, reducing its cost by 2." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="5" />
       </card>
 
       <card id="934a695a-50c9-4fcc-8434-cb87d6c5e967" name="Kabeda Hakurei">
@@ -60,6 +62,7 @@
          <property name="Keywords" value="Shaman 2" />
          <property name="Text" value="Once per turn, Kabeda can use a Noon ability on an unbooted Totem in an adjacent location." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="6" />
       </card>
 
       <card id="4c2da757-17a9-43ed-b7cd-c26efcbc0ff7" name="Zachary Deloria">
@@ -78,6 +81,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="If you are an Eagle Wardens player, Zachary has a bullet bonus equal to the highest influence among your dudes at his location (including himself)." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="7" />
       </card>
 
       <card id="1ee1c912-a6d1-4c74-8fb7-a3430a2cd1c8" name="Karl Odett">
@@ -96,6 +100,7 @@
          <property name="Keywords" value="Abomination" />
          <property name="Text" value="While all of your dudes in play are Abominations, Karl has +3 influence." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="8" />
       </card>
 
       <card id="8cc64eef-41b5-4e60-a68a-e35384d41a7a" name="Erik Samson">
@@ -114,6 +119,7 @@
          <property name="Keywords" value="Blessed 0" />
          <property name="Text" value="While Erik has a Mystical goods, he has +1 influence.&#xD;&#xA;While Erik has a Melee Weapon, he is a stud." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="9" />
       </card>
 
       <card id="08c8a178-3613-4b03-a885-5fc205e7e68e" name="Dr. Brian Foxworth">
@@ -132,6 +138,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="While Brian is unbooted and has no cards attached, he cannot be called out in the town square.&#xD;&#xA;React: Before taking casualties, discard Brian to reduce your casualties by Brian's influence." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="10" />
       </card>
 
       <card id="654372b0-0c12-4d64-9f78-128adf6d6457" name="Buford Hurley">
@@ -150,6 +157,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="While Buford is at a Saloon or Casino, reduce his upkeep and the production of the deed by 1." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="11" />
       </card>
 
       <card id="0f21f34d-76ba-4a54-b690-fafa160ef170" name="Doris Powell">
@@ -168,6 +176,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="At the end of the turn, or if Doris is ever at home, she loses all control points.&#xD;&#xA;Whenever Doris moves to an in-town deed without booting, she gains a control point, to a maximum of 3." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="12" />
       </card>
 
       <card id="d760b8cd-7d30-4e1b-a4e6-9b7163eedf85" name="Rico Rodegain">
@@ -186,6 +195,7 @@
          <property name="Keywords" value="Grifter" />
          <property name="Text" value="React, Boot: At the start of the game, look at your opponent's hand. Shuffle your non-Grifter dudes into your deck and return their cost to your stash. Search your deck for up to the same number of non-Grifter non-Gadget Dudes and put them into play, paying all costs. Shuffle your deck." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="13" />
       </card>
 
       <card id="381aa2d3-aa99-49a9-8d53-6b09f8f4bceb" name="Maza Gang Hideout">
@@ -204,6 +214,7 @@
          <property name="Keywords" value="Private" />
          <property name="Text" value="This deed is not adjacent to the Town Square&#xD;&#xA;This deed has +1 production for each adjacent location." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="14" />
       </card>
 
       <card id="9c101ef5-5214-4d20-8e45-906f8fcc23b3" name="Miasmatic Purifier">
@@ -222,6 +233,7 @@
          <property name="Keywords" value="Private-Non-Unique-Experimental-Gadget-Difficulty 8" />
          <property name="Text" value="At the start of Sundown (before victory is checked), the controller pulls. If the pull is a club, each dude here gets -1 influence until the end of the turn and does not unboot this Sundown, then discard this deed." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="15" />
       </card>
 
       <card id="4bef1feb-f6b5-44ff-8af4-790d121d12e7" name="Disgenuine Currency Press">
@@ -240,6 +252,7 @@
          <property name="Keywords" value="Gadget-Difficulty 5" />
          <property name="Text" value="After this Gadget is successfully invented, gain 5 ghost rock and unboot the Mad Scientist that invented it.&#xD;&#xA;After this Gadget is discarded from play, its owner draws a card." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="16" />
       </card>
 
       <card id="774ebaf2-a983-414b-acc3-7250bd61b9f2" name="Tlaloc's Furies">
@@ -258,6 +271,7 @@
          <property name="Keywords" value="Mystical-Weapon-Melee" />
          <property name="Text" value="If there is an unbooted non-Melee Weapon in the opposing posse, this goods provides no bullet bonus.&#xD;&#xA;This dude has +1 bullets and +1 to their skills for each Tlaloc's Furies you control." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="17" />
       </card>
 
       <card id="e258726e-3705-4d0f-ae7a-d37ce2952b82" name="Personal Ornithopter">
@@ -276,6 +290,7 @@
          <property name="Keywords" value="Horse-Gadget-Difficulty 9" />
          <property name="Text" value="Repeat Shootout, pay 1 ghost rock: This dude joins your posse (moving if necessary).&#xD;&#xA;Shootout, Boot: Send this dude home booted." />
          <property name="Instructions" value="Repeat Shootout, pay 1 ghost rock: This dude joins your posse.||;Shootout, Boot: Send this dude home booted." />
+         <property name="CardNumber" value="19" />
       </card>
 
       <card id="7eb84c0d-be8e-40b5-891c-b1b4c95b55af" name="Jael's Guile">
@@ -294,6 +309,7 @@
          <property name="Keywords" value="Mystical-Weapon-Melee" />
          <property name="Text" value="Cheatin' Resolution, Boot: If your hand is illegal, you must boot this dude to use this ability. Your opponent boots or discards one of their dudes, then boots or discards one of their dudes. Non-wanted dudes cannot be chosen if there are wanted dudes that can be chosen." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="18" />
       </card>
 
       <card id="0967a396-2be7-4a61-afe9-a119034266fc" name="Hustled">
@@ -312,6 +328,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="Noon: Boot your Grifter and increase their bounty by 1 to gain 2 ghost rock. Boot an opposing card in the Grifter's location." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="20" />
       </card>
 
       <card id="79ec0f19-cc3a-4f63-930e-f3dadf2645f7" name="An Accidental Reunion">
@@ -330,6 +347,7 @@
          <property name="Keywords" value="Headline" />
          <property name="Text" value="Shootout: Each time a player reveals an illegal draw hand, that player takes two extra casualties that round. You may pay 2 ghost rock to place this card back into your hand." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="21" />
       </card>
 
       <card id="2c8fd25e-ff8b-4129-8a6c-2c6f3590c455" name="A Slight Modification">
@@ -348,6 +366,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="React: After an opponent declares the use of a Shootout or non-Cheatin' Resolution ability, boot a Gadget on a dude in your posse. Waive all costs of the ability, and that  ability has no effect." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="22" />
       </card>
 
       <card id="2f4ad55c-0be5-422e-bb47-ccb1a6fe21e0" name="Rabbit Takes Revenge">
@@ -366,6 +385,7 @@
          <property name="Keywords" value="Technique-Tao of the Jade Rabbit" />
          <property name="Text" value="Shootout Tao Technique: Choose an opposing dude. Make that dude a draw and this dude a stud. Those dudes cannot leave this shootout. If played as a combo, the  opposing dude boots all their attached cards and must be chosen as the first casualty this round." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="23" />
       </card>
 
       <card id="668fb674-5e1f-4bc9-98ae-ca7120277ea9" name="Morgan Stables">
@@ -384,6 +404,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="Reduce the cost of the first Horse you play each turn by 1 ghost rock. &#xD;&#xA;React, Boot: After you complete a Noon or Shootout ability that moved one of your  dudes, draw a card and discard a card. Make another play or pass; if you are not in a shootout, that play cannot be actin'." />
          <property name="Instructions" value="Play a horse, reducing its cost by 1||Draw a card and discard a card." />
+         <property name="CardNumber" value="3" />
       </card>
 
       <card id="fb84426c-6b63-4dee-a2df-2d3c7b89c230" name="108 Worldly Desires">
@@ -402,6 +423,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="Repeat React: After you draw a draw hand, if you have the lowest ghost rock among all players, draw an additional card into your draw hand and then discard a card. You can only use this ability once per draw hand." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="1" />
       </card>
 
       <card id="d47cff43-d675-4410-929c-508475fd7814" name="Beyond the Veil">
@@ -420,6 +442,7 @@
          <property name="Keywords" value="" />
          <property name="Text" value="While your dudes are at a deed with a Totem, they have +1 influence.&#xD;&#xA;Noon, Boot: Boot a Totem you control to move one of your dudes to its location." />
          <property name="Instructions" value="" />
+         <property name="CardNumber" value="2" />
       </card>
       
   </cards>
